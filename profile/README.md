@@ -1,3 +1,3 @@
-### ~ Software Engineer ~
+### ~> Software Engineer
 
 [![GitLab](https://img.shields.io/badge/Active_on-GitLab-orange?logo=gitlab)](https://gitlab.com/Codyn001)
